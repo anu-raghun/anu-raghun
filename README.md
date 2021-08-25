@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anu-raghun
-- 👀 I’m interested in applied mathematics research!!
+- 👀 I’m interested in applied mathematics research!! I have data analytics, cosmology and fluid dynamics experience!
 - 🌱 I’m currently learning PHP for a personal website (coming soon!!) and database engineering (trying out AWS)
 - Check out the respositories for a look at some coding projects! 
 <!---
